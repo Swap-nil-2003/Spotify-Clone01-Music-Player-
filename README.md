@@ -3,5 +3,5 @@ Made a static Music Player with a select few songs that I enjoy listening to. Th
 
 Technologies/Tools used: HTML5, CSS3, CSS Media Queries, Basic Javascript.
 
-# Link to the website
+# Link to the music player
 https://ncs-spotify-clone01.netlify.app/
